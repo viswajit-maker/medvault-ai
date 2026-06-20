@@ -1,0 +1,6 @@
+{
+  "name": "MedVault AI Frontend",
+  "description": "Design system and style guide foundation for MedVault AI, featuring a premium dark clinical-teal theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
